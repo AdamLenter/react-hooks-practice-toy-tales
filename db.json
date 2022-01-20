@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Monkey wrench",
+      "image": "https://www.zoro.com/static/cms/product/full/Z0uIxvqcpEx_.JPG",
+      "likes": 3,
+      "id": 9
+    },
+    {
+      "name": "Red Lego Brick",
+      "image": "https://i5.walmartimages.com/asr/a2a3a0a4-4c4e-4b28-af1e-fedb4e9609f1_1.8c73135fdbacd14c15526460b400fe0e.jpeg",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
